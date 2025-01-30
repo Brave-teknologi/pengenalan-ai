@@ -104,10 +104,6 @@ const config: Config = {
                title: "Lainnya",
                items: [
                   {
-                     label: "Blog",
-                     to: "/blog",
-                  },
-                  {
                      label: "GitHub",
                      href: "https://github.com/Brave-teknologi/belajar-php",
                   },
